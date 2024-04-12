@@ -1,0 +1,2 @@
+# SmallStorage
+Just storing stuff.
